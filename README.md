@@ -7,5 +7,5 @@ Next, I grouped the data of Math Scores in the pivot table into 4 grades which a
 
 I think parents have a significant effect towards students' studies, so I started with comparing the education and marital status of parents of students in grade A and Failed. To my surprise they did not have a large influence in their children's results. 
 
-![image](https://github.com/Shafik97/First-project/assets/136435447/dfb4f706-4543-42a1-81ff-e195083d530f)
-![image](https://github.com/Shafik97/First-project/assets/136435447/e80e7ef8-d465-4b6b-88c1-1c0c9275359a)
+<image src="https://github.com/Shafik97/First-project/assets/136435447/dfb4f706-4543-42a1-81ff-e195083d530f" width="150" height="280">
+<image src="https://github.com/Shafik97/First-project/assets/136435447/e80e7ef8-d465-4b6b-88c1-1c0c9275359a" width="150" height="280">
