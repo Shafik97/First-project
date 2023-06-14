@@ -16,4 +16,6 @@
 <image src="https://github.com/Shafik97/First-project/assets/136435447/c6535764-039e-44c0-ba25-88c067806498" width="270" height="250">
 <image src="https://github.com/Shafik97/First-project/assets/136435447/297fd077-22c3-4b7d-960d-e27efc22dda7" width="270" height="250">
 
-  Next, to improve the score on the upcoming exam, I decided to check the weightage of the grades. I found that most students, 48.58% scored Grade B (60-79). So, it is better to focus on this group as they will bring a huge influence. 
+  Next, to improve the score on the upcoming exam, I decided to check the weightage of the grades. I found that most students, 48.58% scored Grade B (60-79). So, it is better to focus on this group as they will bring a huge influence. I found that there is a high number of students in Group B who ate standard food but, they are still lacking in completing the test preparation. So, I think by helping the students in Group B completing the test preparation will boost the overall students scores. And, for the 12% of students in Group B who have completed the test preparation but are still lacking in their diet, can be given a standard food while the 18% which were lacking in test preparation and diet can be helped with both to increase the probability for them to get an A in the upcoming exam. 
+  
+  <image src="https://github.com/Shafik97/First-project/assets/136435447/bbfabc2c-5e6b-48e7-80d3-c3eae63d5e8a" width="270" height="250">
